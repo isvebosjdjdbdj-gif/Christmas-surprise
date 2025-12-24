@@ -1,0 +1,97 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:8080/
+Subject: Christmas Surprise
+Date: Wed, 24 Dec 2025 18:57:28 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--d4Dm3em40lg7P1Xm39hT1ivIoVfJMLBYQNbW9wvjtz----"
+
+
+------MultipartBoundary--d4Dm3em40lg7P1Xm39hT1ivIoVfJMLBYQNbW9wvjtz----
+Content-Type: text/html
+Content-ID: <frame-C0B2C3F111A600278F912C9A57655AAA@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:8080/
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-5f2b9e85-ae23-473b-927c-60d87446a7a7@mhtml.blink" />
+
+<title>Christmas Surprise</title>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script&amp;display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+<canvas id="snow" width="980" height="1879"></canvas>
+
+<!-- Page 1 -->
+<div class="page" id="p1">
+  <h1>🎁</h1>
+  <p>Tap Me</p>
+</div>
+
+<!-- Page 2 -->
+<div class="page show" id="p2">
+  <h1 id="typing">HII RISHIKA</h1>
+  <button>Next</button>
+</div>
+
+<!-- Page 3 -->
+<div class="page" id="p3">
+  <p class="message">🎄 Our very first Christmas together, my love.<br>💖 I promise to always stand by your side, forever and always.</p>
+  <button>Next</button>
+</div>
+
+<!-- Page 4 -->
+<div class="page" id="p4">
+  <h1>🎅 Happy Christmas my Babu! 🎄</h1>
+  <p style="font-size:1.5em; margin-top:30px;">Thanks ❤️</p>
+</div>
+
+
+
+
+
+</body></html>
+------MultipartBoundary--d4Dm3em40lg7P1Xm39hT1ivIoVfJMLBYQNbW9wvjtz----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: "Dancing Script"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/dancingscript/v29/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Rep8hNP6pnxP.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Dancing Script"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/dancingscript/v29/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3ROp8hNP6pnxP.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Dancing Script"; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/dancingscript/v29/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup8hNP6pg.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--d4Dm3em40lg7P1Xm39hT1ivIoVfJMLBYQNbW9wvjtz----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-5f2b9e85-ae23-473b-927c-60d87446a7a7@mhtml.blink
+
+@charset "utf-8";
+
+body, html { margin: 0px; padding: 0px; height: 100%; font-family: "Dancing Script", cursive; background-color: rgb(249, 249, 249); overflow: hidden; }
+
+canvas#snow { position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; pointer-events: none; z-index: 0; }
+
+.page { display: none; height: 100vh; width: 100%; justify-content: center; align-items: center; flex-direction: column; text-align: center; padding: 20px; box-sizing: border-box; animation: 1s ease 0s 1 normal none running fade; }
+
+.show { display: flex; }
+
+h1, p { margin: 10px 0px; color: rgb(34, 34, 34); font-size: 3em; }
+
+.message { font-size: 2em; margin-top: 20px; }
+
+button { padding: 15px 30px; font-size: 1.5em; cursor: pointer; border: none; border-radius: 10px; background: rgb(255, 105, 97); color: white; margin-top: 20px; transition: 0.3s; }
+
+button:hover { background: rgb(255, 76, 76); }
+
+@keyframes fade { 
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+
+body::before { content: ""; position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; background-size: 40px 40px; background-image: linear-gradient(to right, rgb(221, 221, 221) 1px, transparent 1px), linear-gradient(rgb(221, 221, 221) 1px, transparent 1px); z-index: -1; }
+------MultipartBoundary--d4Dm3em40lg7P1Xm39hT1ivIoVfJMLBYQNbW9wvjtz------
